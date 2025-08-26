@@ -4,11 +4,11 @@ An interactive Streamlit app for analysing survey data with clarity and a dash o
 
 #### Video Demo:  https://youtu.be/mxdx9UozB_A
 
-#### Description:
+# Description:
 
 Tabbylitics is a lightweight, interactive analytics tool built with Streamlit that transforms survey responses into clear, actionable insights. Designed for flexibility and ease of use, Tabbylitics allows users to explore survey results dynamically through intuitive visualisations and comparative analysis.
 
-##### Technology stack:
+#### Technology stack:
 
 Python (backend)
 Streamlit (UI)
@@ -26,7 +26,7 @@ It handles single-choice questions, and multiple choice questions, ensuring each
 
 Where did the name come from? It is dedicated to my awesome cat Tiddles; "Tabbylitics" = cat pun + analytics 
 
-##### Key Features
+#### Key Features
 
 * Dropdown to select any survey question.
 * Bar chart of responses (sorted, percentages on bars).
@@ -38,25 +38,25 @@ Where did the name come from? It is dedicated to my awesome cat Tiddles; "Tabbyl
     * Free-text → displayed as response list, optionally grouped
 
 
-#### Project Structure
+# Project Structure
 
-app.py 
+#### app.py 
 
 This is the main entry point where the app is created and deployed. It contains streamlit logic that creates sidebars, dropdowns, charts and tables. For multiple surveys, the advice would be to have individual app files for each, ensuring it is reading the relevant source. 
 
-/data
+#### /data
 
 This is where the raw data is stored for the app. There can be multiple sources for multiple surveys. Advice: store data in csv format. The app needs clean and error free and structured data. Raw data may need to have an additional pre-step to be sorted. 
 
-question_catalogue.py
+#### question_catalogue.py
 
 Dictionary that maps each survey question to metadata (type: single-choice, multi-choice, scale, free-text oor additional if required). Helps the app decide how to display results, also some results are question type dependent, therefore defining the dictionary is very important for dynamic querying. 
 
-data_loader.py 
+#### data_loader.py 
 
 Loads data from the data folder and assigns it to a pandas data frame. 
 
-unified_dataset.py
+#### unified_dataset.py
 
 used for two purposes to process survey data. 
 
@@ -64,9 +64,9 @@ The first one is addressing is issue with the way multiple-choice, multiple-answ
 
 The second part to data processing in this file is the processing of remaining questions and answers into the same dataframe as above so that in the end the dataframe is sorted into "Respondent ID", "Question", "Answer" formated columns. 
 
-#### Design Choices & Future Developments
+# Design Choices & Future Developments
 
-##### Design Choices 
+#### Design Choices 
 
 Why Streamlit? - Chosen for simplicity and speed of prototyping dashboards. Minimal boilerplate vs. Flask/Django.
 
@@ -78,7 +78,7 @@ Why handle question types differently? - Free-text raw display makes more sense 
 
 Why the current data model? - Chose a tidy, respondent-question-answer format for flexibility. Enables easy pivoting, grouping, and cross-tabulations.
 
-##### Future Developments 
+#### Future Developments 
 
 1. Develop an LLM connector for Streamlit
     - Free text processing via LLM. Ability to summarise free text into a descriptive paragraph.
@@ -87,14 +87,14 @@ Why the current data model? - Chose a tidy, respondent-question-answer format fo
 2. Advance visualisations. Add options to view data in different types of charts.
 
 
-#### How to Run the Project
+# How to Run the Project
 
-# Clone repository
+## Clone repository
 git clone https://github.com/your-username/tabbylitics.git
 cd tabbylitics
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-# Run Streamlit app
+## Run Streamlit app
 streamlit run app.py
