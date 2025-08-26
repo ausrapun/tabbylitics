@@ -2,7 +2,9 @@
 
 An interactive Streamlit app for analysing survey data with clarity and a dash of cattitude.
 
-#### Video Demo:  https://youtu.be/mxdx9UozB_A
+**Video Demo:**  https://youtu.be/mxdx9UozB_A
+
+**Public Repository:** https://github.com/ausrapun/tabbylitics
 
 # Description:
 
