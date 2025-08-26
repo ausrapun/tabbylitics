@@ -1,0 +1,501 @@
+RespondentID,What is your location?,What is your age?,What is your gender?,What is your role?,What is your industry?,Which AI tools do you prefer to use?,Which SaaS tools do you use within your role?,"On a scale of 1-10, how satisfied are you with your role?","On a scale of 1-10, how useful is AI in your role?",Any comments you would like to leave about your role?
+1,Illinois,45-54,Female,Engineer,Healthcare,Copilot | ChatGPT,Asana,5,3,Management could improve communication.
+2,Texas,18-24,Male,Manager,Retail,Other | Claude,Notion | Salesforce | Asana,5,5,I enjoy my role but workload is high.
+3,Florida,45-54,Female,Sales,Retail,ChatGPT | Gemini | Other,Asana | Zoom | Salesforce,8,5,Management could improve communication.
+4,Florida,18-24,Female,HR,Finance,ChatGPT | Other,Jira,4,3,
+5,New York,55+,Female,Data Analyst,Tech,Other,Slack | Asana | Notion,3,8,Management could improve communication.
+6,Illinois,45-54,Non-binary,Engineer,Tech,Claude | Other,Slack | Asana,6,2,I love the team culture here.
+7,Texas,18-24,Male,Engineer,Retail,Copilot | Other | Claude,Asana | Notion | Salesforce,4,7,
+8,Texas,35-44,Prefer not to say,Data Analyst,Tech,Gemini | Other,Notion | Zoom | Salesforce | Asana,10,5,AI has made my job much easier.
+9,Florida,35-44,Female,Manager,Finance,Gemini,Zoom | Notion,1,6,Management could improve communication.
+10,New York,55+,Female,Data Analyst,Finance,Copilot | Other | Gemini,Asana,4,3,Management could improve communication.
+11,California,18-24,Male,HR,Retail,ChatGPT | Other,Slack | Zoom,3,3,
+12,New York,18-24,Male,Engineer,Finance,Claude,Slack | Jira | Salesforce | Asana,5,9,I love the team culture here.
+13,California,25-34,Prefer not to say,Sales,Tech,ChatGPT | Claude | Gemini,Salesforce | Notion,7,9,
+14,Texas,45-54,Male,Data Analyst,Finance,ChatGPT,Notion | Zoom | Salesforce | Slack,4,6,Great opportunities for growth.
+15,New York,45-54,Prefer not to say,Manager,Tech,ChatGPT | Gemini | Claude,Jira | Zoom,10,8,Great opportunities for growth.
+16,New York,35-44,Prefer not to say,Engineer,Finance,Claude | Gemini | Other,Slack | Notion | Zoom | Salesforce,9,10,AI has made my job much easier.
+17,Texas,25-34,Male,HR,Education,Other,Notion | Zoom,7,3,Great opportunities for growth.
+18,New York,55+,Male,HR,Tech,Other | Claude,Slack,7,3,I enjoy my role but workload is high.
+19,Texas,55+,Prefer not to say,Manager,Healthcare,Claude,Notion | Asana | Slack,9,5,AI has made my job much easier.
+20,Texas,55+,Prefer not to say,HR,Tech,Copilot,Salesforce | Notion | Jira | Asana,6,4,Great opportunities for growth.
+21,Texas,45-54,Male,Manager,Finance,ChatGPT,Zoom,1,10,
+22,New York,55+,Non-binary,Data Analyst,Retail,Copilot | Claude | Other,Salesforce | Notion | Zoom | Jira,6,1,Great opportunities for growth.
+23,California,35-44,Non-binary,HR,Retail,ChatGPT | Other | Copilot,Asana,5,1,I love the team culture here.
+24,New York,25-34,Non-binary,Sales,Tech,Other | Claude | Gemini,Jira | Salesforce,9,4,I enjoy my role but workload is high.
+25,Texas,18-24,Non-binary,HR,Education,Copilot | ChatGPT,Zoom | Jira | Asana,1,1,I love the team culture here.
+26,Texas,18-24,Male,Data Analyst,Retail,ChatGPT | Other,Slack,9,5,Management could improve communication.
+27,New York,55+,Male,Data Analyst,Retail,Gemini | Claude | Copilot,Zoom | Jira,1,6,Management could improve communication.
+28,New York,35-44,Male,Engineer,Education,Claude,Salesforce | Zoom | Slack,7,9,Management could improve communication.
+29,Texas,45-54,Prefer not to say,Engineer,Finance,Claude | Other | Gemini,Notion | Salesforce,3,3,AI has made my job much easier.
+30,California,55+,Female,HR,Healthcare,ChatGPT | Gemini,Zoom,1,3,Management could improve communication.
+31,California,25-34,Male,HR,Education,Gemini,Notion | Asana,2,6,Great opportunities for growth.
+32,New York,18-24,Female,Data Analyst,Retail,Other | Claude | ChatGPT,Notion,3,3,Management could improve communication.
+33,California,55+,Female,HR,Healthcare,Gemini | Claude,Notion,4,3,
+34,New York,55+,Male,Manager,Healthcare,ChatGPT | Copilot,Zoom | Salesforce | Slack,10,8,
+35,New York,18-24,Female,HR,Retail,Other | Claude | Copilot,Notion | Jira,2,6,Management could improve communication.
+36,Texas,45-54,Male,Data Analyst,Education,Copilot | Claude | ChatGPT,Notion | Jira | Slack,6,5,
+37,California,55+,Prefer not to say,Manager,Education,Gemini | Claude,Salesforce | Zoom | Notion | Asana,6,2,Management could improve communication.
+38,Illinois,35-44,Male,Data Analyst,Retail,Gemini | Other,Asana | Jira | Slack | Zoom,1,7,I love the team culture here.
+39,Florida,45-54,Non-binary,Manager,Retail,Claude | ChatGPT,Asana,2,8,I love the team culture here.
+40,Texas,55+,Non-binary,HR,Healthcare,ChatGPT,Notion,10,10,I love the team culture here.
+41,Florida,25-34,Prefer not to say,Manager,Retail,Copilot | Other,Asana | Slack | Notion | Zoom,2,4,Great opportunities for growth.
+42,California,35-44,Female,Data Analyst,Finance,Other | Gemini,Asana | Salesforce | Zoom,7,2,
+43,Illinois,25-34,Prefer not to say,Data Analyst,Finance,Claude | Other | Copilot,Asana | Salesforce,2,7,AI has made my job much easier.
+44,New York,25-34,Male,Sales,Finance,ChatGPT | Gemini,Salesforce | Slack | Jira,7,7,I enjoy my role but workload is high.
+45,New York,55+,Male,Engineer,Healthcare,ChatGPT,Salesforce | Asana | Slack,4,6,Great opportunities for growth.
+46,New York,18-24,Female,Manager,Retail,Copilot,Salesforce | Slack | Notion | Jira,5,2,I love the team culture here.
+47,Florida,55+,Male,Sales,Retail,Claude | Copilot | Other,Slack | Jira | Asana | Notion,2,1,Great opportunities for growth.
+48,Florida,55+,Male,Sales,Healthcare,Copilot | Claude | ChatGPT,Slack | Notion,3,8,I enjoy my role but workload is high.
+49,Florida,25-34,Non-binary,Sales,Education,Copilot | Gemini,Notion | Salesforce,4,3,AI has made my job much easier.
+50,New York,35-44,Male,Data Analyst,Education,Copilot | ChatGPT,Jira | Slack | Salesforce,4,10,Great opportunities for growth.
+51,California,45-54,Male,Sales,Retail,ChatGPT | Gemini | Other,Asana | Slack | Jira,8,5,Great opportunities for growth.
+52,Texas,25-34,Non-binary,Engineer,Retail,Claude,Asana | Salesforce | Jira | Notion,1,4,
+53,Illinois,55+,Prefer not to say,Engineer,Healthcare,ChatGPT,Zoom | Salesforce,3,9,AI has made my job much easier.
+54,Texas,25-34,Female,Manager,Retail,Claude | Gemini | Other,Salesforce | Asana | Slack,1,9,
+55,Texas,35-44,Non-binary,Engineer,Retail,Copilot | Claude,Zoom,10,1,
+56,California,18-24,Non-binary,HR,Healthcare,ChatGPT,Salesforce | Zoom | Notion,10,1,AI has made my job much easier.
+57,Texas,45-54,Prefer not to say,Engineer,Finance,Gemini | Claude | Copilot,Salesforce,8,1,I enjoy my role but workload is high.
+58,Florida,25-34,Female,HR,Education,Claude | Other,Notion | Zoom | Slack | Salesforce,4,5,
+59,California,55+,Female,Engineer,Finance,Other,Salesforce | Slack | Asana | Zoom,9,3,I love the team culture here.
+60,New York,45-54,Prefer not to say,HR,Finance,ChatGPT | Gemini,Asana | Zoom | Notion | Salesforce,6,4,Management could improve communication.
+61,New York,18-24,Prefer not to say,Manager,Healthcare,Gemini,Salesforce,7,3,
+62,California,45-54,Male,Manager,Retail,Other | Gemini | Copilot,Slack | Zoom | Notion,10,2,I enjoy my role but workload is high.
+63,Florida,25-34,Non-binary,Manager,Healthcare,Other,Salesforce,1,2,I love the team culture here.
+64,Texas,25-34,Prefer not to say,HR,Tech,ChatGPT | Claude,Zoom,8,2,
+65,Florida,35-44,Female,Sales,Tech,ChatGPT | Claude | Gemini,Notion | Zoom | Asana,10,1,I love the team culture here.
+66,New York,35-44,Female,Manager,Tech,Claude | Copilot | ChatGPT,Zoom,5,9,
+67,Illinois,45-54,Prefer not to say,Engineer,Retail,ChatGPT | Gemini | Claude,Asana | Salesforce | Notion | Slack,3,7,Great opportunities for growth.
+68,Texas,25-34,Male,Engineer,Retail,Claude,Notion | Salesforce,1,3,I love the team culture here.
+69,Florida,55+,Non-binary,Manager,Tech,Other | Copilot | ChatGPT,Salesforce | Slack | Zoom | Notion,5,7,Great opportunities for growth.
+70,Florida,45-54,Female,Engineer,Tech,Claude | Other | ChatGPT,Zoom | Jira | Asana | Salesforce,4,2,Management could improve communication.
+71,Illinois,18-24,Prefer not to say,Engineer,Retail,Copilot,Salesforce,6,7,Management could improve communication.
+72,California,55+,Female,Sales,Retail,Other,Salesforce | Jira | Notion | Zoom,2,4,I enjoy my role but workload is high.
+73,Florida,18-24,Female,HR,Finance,Gemini | Claude,Slack | Asana,6,1,Management could improve communication.
+74,Illinois,18-24,Male,Manager,Finance,ChatGPT,Salesforce | Zoom | Slack | Asana,2,10,Management could improve communication.
+75,California,55+,Male,Engineer,Healthcare,Claude | ChatGPT,Salesforce,9,3,I enjoy my role but workload is high.
+76,New York,55+,Non-binary,Sales,Retail,Copilot | Other,Zoom | Jira | Slack,6,2,I enjoy my role but workload is high.
+77,Florida,45-54,Non-binary,Manager,Tech,Other | Copilot | Claude,Jira | Notion | Slack,5,1,Management could improve communication.
+78,California,35-44,Male,Sales,Finance,Other | Copilot,Salesforce,7,9,Management could improve communication.
+79,Illinois,25-34,Prefer not to say,Engineer,Education,Other | Gemini | Copilot,Asana | Notion | Jira,1,2,
+80,California,35-44,Non-binary,Data Analyst,Retail,Other,Slack | Notion,5,5,
+81,California,18-24,Female,HR,Tech,Copilot | Claude | Other,Zoom | Salesforce | Jira,6,8,
+82,Florida,35-44,Female,Engineer,Education,Claude | ChatGPT,Notion | Jira | Zoom,3,1,AI has made my job much easier.
+83,Illinois,45-54,Female,Engineer,Finance,Other | Gemini | ChatGPT,Zoom | Notion | Jira,6,10,Management could improve communication.
+84,Texas,35-44,Prefer not to say,Manager,Tech,Copilot | Claude | Gemini,Jira | Notion,10,3,Management could improve communication.
+85,California,35-44,Male,Data Analyst,Finance,Claude | ChatGPT | Copilot,Jira | Salesforce | Asana,9,10,Management could improve communication.
+86,Texas,45-54,Male,Manager,Retail,Copilot,Salesforce,1,5,
+87,California,18-24,Non-binary,Manager,Finance,Claude | ChatGPT | Other,Jira | Slack,8,6,Management could improve communication.
+88,Texas,25-34,Non-binary,Manager,Tech,Claude | Other,Salesforce,1,7,AI has made my job much easier.
+89,Texas,35-44,Female,Sales,Tech,Copilot,Jira | Salesforce | Asana | Slack,10,3,Great opportunities for growth.
+90,California,25-34,Non-binary,Manager,Finance,Copilot,Jira,5,7,I love the team culture here.
+91,New York,45-54,Male,Sales,Retail,Copilot | Claude,Notion | Asana | Zoom,1,5,Management could improve communication.
+92,Florida,25-34,Prefer not to say,HR,Education,Claude,Salesforce,8,7,
+93,California,45-54,Female,Engineer,Finance,Gemini | Copilot | Other,Slack | Jira | Asana | Zoom,2,5,AI has made my job much easier.
+94,New York,35-44,Male,Engineer,Tech,Copilot | Other | Gemini,Jira,8,2,Management could improve communication.
+95,Illinois,45-54,Male,Engineer,Tech,ChatGPT | Other,Salesforce | Asana | Zoom | Jira,10,2,
+96,New York,18-24,Prefer not to say,Manager,Retail,Claude | ChatGPT,Slack | Salesforce | Zoom | Asana,1,4,AI has made my job much easier.
+97,New York,18-24,Female,Data Analyst,Healthcare,Claude | ChatGPT,Jira | Notion | Asana | Slack,1,4,Great opportunities for growth.
+98,New York,25-34,Non-binary,Manager,Healthcare,Claude,Salesforce | Asana,3,6,AI has made my job much easier.
+99,New York,25-34,Male,Data Analyst,Retail,Gemini,Salesforce | Notion | Jira,9,4,
+100,California,35-44,Female,Engineer,Education,Other | Copilot | Gemini,Zoom,6,4,AI has made my job much easier.
+101,California,55+,Female,Manager,Retail,ChatGPT | Gemini | Copilot,Slack | Asana | Zoom,2,2,AI has made my job much easier.
+102,California,55+,Non-binary,Manager,Retail,Gemini,Zoom | Notion,1,2,I enjoy my role but workload is high.
+103,Illinois,18-24,Prefer not to say,Data Analyst,Finance,Claude | Other,Zoom | Salesforce | Slack,3,10,
+104,Texas,55+,Female,Data Analyst,Tech,ChatGPT | Gemini,Zoom | Asana | Slack,7,6,Management could improve communication.
+105,Florida,35-44,Male,Sales,Education,Copilot | Other,Notion | Asana | Salesforce | Jira,5,8,
+106,New York,35-44,Male,Data Analyst,Retail,Gemini | ChatGPT,Salesforce,3,6,Management could improve communication.
+107,New York,45-54,Non-binary,Sales,Education,Copilot,Zoom | Asana,8,6,Great opportunities for growth.
+108,Florida,45-54,Male,Sales,Tech,Gemini | Other,Notion | Salesforce | Jira | Slack,5,5,I enjoy my role but workload is high.
+109,California,25-34,Female,Sales,Retail,Gemini | ChatGPT | Copilot,Slack | Jira | Salesforce | Notion,3,9,AI has made my job much easier.
+110,Florida,25-34,Female,Data Analyst,Finance,Gemini | Copilot | Claude,Jira,4,8,I enjoy my role but workload is high.
+111,Florida,25-34,Prefer not to say,Manager,Retail,Gemini | Copilot | Other,Zoom,6,1,Great opportunities for growth.
+112,Texas,55+,Female,Data Analyst,Tech,Other,Jira | Asana | Notion | Salesforce,2,7,I enjoy my role but workload is high.
+113,California,18-24,Non-binary,Data Analyst,Retail,Claude,Jira,4,6,Management could improve communication.
+114,California,55+,Female,HR,Education,Copilot,Notion | Zoom | Salesforce | Jira,10,3,AI has made my job much easier.
+115,California,25-34,Male,HR,Healthcare,ChatGPT,Jira,7,3,Management could improve communication.
+116,New York,55+,Male,Sales,Healthcare,Gemini | Copilot | Claude,Slack,5,4,
+117,New York,18-24,Prefer not to say,Data Analyst,Tech,Gemini,Zoom | Jira,3,9,
+118,Illinois,18-24,Non-binary,Data Analyst,Education,Copilot,Jira | Asana | Salesforce,6,1,Great opportunities for growth.
+119,Illinois,45-54,Male,Engineer,Finance,Claude | Gemini | Other,Asana | Jira | Zoom | Notion,2,3,
+120,Florida,35-44,Non-binary,Data Analyst,Tech,Other | Gemini,Salesforce | Notion,3,4,Great opportunities for growth.
+121,Texas,25-34,Non-binary,Sales,Tech,Gemini,Salesforce,3,10,I enjoy my role but workload is high.
+122,California,25-34,Prefer not to say,Sales,Healthcare,Other | ChatGPT | Claude,Asana | Jira,1,8,Management could improve communication.
+123,Illinois,35-44,Prefer not to say,HR,Retail,Gemini | ChatGPT,Zoom,1,8,Management could improve communication.
+124,New York,45-54,Male,Sales,Retail,Other | ChatGPT | Copilot,Zoom | Slack | Salesforce | Asana,3,5,I love the team culture here.
+125,New York,55+,Female,Manager,Education,Other | Copilot | ChatGPT,Asana | Salesforce | Slack | Jira,1,7,I love the team culture here.
+126,New York,35-44,Female,Engineer,Retail,Gemini,Jira,7,2,AI has made my job much easier.
+127,New York,55+,Prefer not to say,Engineer,Retail,Claude,Salesforce,4,10,
+128,California,35-44,Prefer not to say,Sales,Retail,Other,Asana,3,4,Management could improve communication.
+129,New York,18-24,Male,Sales,Healthcare,Claude | ChatGPT | Copilot,Zoom | Asana,1,3,
+130,Illinois,45-54,Male,Data Analyst,Tech,Other | ChatGPT,Salesforce | Notion | Asana | Zoom,7,10,Great opportunities for growth.
+131,California,25-34,Prefer not to say,HR,Finance,Claude | ChatGPT | Other,Slack | Salesforce | Zoom | Jira,4,4,
+132,New York,55+,Prefer not to say,HR,Education,ChatGPT | Copilot,Jira | Asana,3,10,Management could improve communication.
+133,Florida,35-44,Male,Engineer,Education,ChatGPT | Other,Salesforce | Zoom | Slack | Asana,7,3,
+134,Illinois,18-24,Non-binary,HR,Education,Other | Claude | Copilot,Asana,9,6,
+135,Illinois,35-44,Female,HR,Education,Gemini | Copilot | ChatGPT,Jira | Salesforce,8,1,I enjoy my role but workload is high.
+136,Illinois,55+,Female,Manager,Education,Other,Salesforce,2,1,
+137,Texas,45-54,Female,Data Analyst,Healthcare,Copilot | ChatGPT | Other,Slack | Jira | Zoom | Salesforce,1,9,
+138,Florida,18-24,Prefer not to say,Manager,Retail,ChatGPT | Claude,Asana | Slack | Notion | Zoom,2,6,
+139,New York,45-54,Male,Manager,Retail,Other,Asana,9,8,Great opportunities for growth.
+140,Illinois,35-44,Male,Engineer,Retail,ChatGPT | Gemini,Asana,2,10,Great opportunities for growth.
+141,California,18-24,Non-binary,Sales,Finance,Copilot,Notion,4,3,
+142,New York,45-54,Prefer not to say,Data Analyst,Education,Gemini | Other | Copilot,Salesforce | Notion | Zoom,10,9,Great opportunities for growth.
+143,Texas,35-44,Non-binary,Manager,Healthcare,Other | Copilot,Notion | Salesforce | Asana | Jira,5,8,
+144,California,45-54,Male,Engineer,Finance,Other,Zoom | Salesforce | Slack | Jira,7,2,
+145,Florida,35-44,Non-binary,Data Analyst,Healthcare,Gemini | Claude | Other,Zoom,3,4,AI has made my job much easier.
+146,Illinois,55+,Prefer not to say,Sales,Retail,Gemini,Asana | Salesforce | Slack,5,2,
+147,New York,18-24,Male,Engineer,Healthcare,Copilot,Jira,5,8,Management could improve communication.
+148,Illinois,25-34,Prefer not to say,Sales,Finance,Copilot | Other | Gemini,Asana | Jira,8,7,
+149,Florida,55+,Male,HR,Education,ChatGPT,Zoom,2,5,I love the team culture here.
+150,Florida,35-44,Non-binary,Data Analyst,Tech,Copilot,Zoom | Salesforce,8,6,
+151,Florida,25-34,Male,HR,Healthcare,Claude | ChatGPT,Jira | Slack | Asana,9,1,Management could improve communication.
+152,Florida,45-54,Prefer not to say,Data Analyst,Education,Claude | Copilot | ChatGPT,Notion | Salesforce,9,2,I love the team culture here.
+153,Florida,18-24,Male,Manager,Tech,ChatGPT | Other | Gemini,Notion | Jira | Slack | Asana,10,1,
+154,New York,55+,Female,Engineer,Education,Other | ChatGPT | Gemini,Notion,10,4,
+155,Texas,45-54,Male,HR,Healthcare,Copilot | Other,Slack | Salesforce | Jira,7,2,I enjoy my role but workload is high.
+156,Florida,55+,Female,Data Analyst,Healthcare,Gemini | Other,Slack,3,9,AI has made my job much easier.
+157,California,45-54,Male,Data Analyst,Retail,Gemini,Jira | Slack,8,5,I enjoy my role but workload is high.
+158,Florida,35-44,Non-binary,Engineer,Tech,Other,Notion | Slack | Asana | Zoom,10,2,Great opportunities for growth.
+159,California,25-34,Prefer not to say,Sales,Education,Gemini | Other,Notion | Asana | Salesforce,5,9,Management could improve communication.
+160,New York,35-44,Non-binary,Manager,Tech,Other | Claude | ChatGPT,Notion | Asana,3,4,Great opportunities for growth.
+161,Florida,35-44,Male,Manager,Healthcare,Other | Gemini,Salesforce | Jira | Zoom | Slack,6,2,
+162,Illinois,35-44,Female,Engineer,Finance,Claude | Other | ChatGPT,Slack,9,3,I love the team culture here.
+163,Illinois,18-24,Male,Manager,Retail,Claude | Other,Notion | Asana | Salesforce,6,4,I love the team culture here.
+164,Illinois,45-54,Female,Sales,Healthcare,ChatGPT | Claude,Salesforce | Zoom,6,9,
+165,Texas,45-54,Prefer not to say,Sales,Retail,Copilot,Zoom,10,8,Management could improve communication.
+166,California,35-44,Male,Engineer,Retail,Claude,Asana | Salesforce,2,4,AI has made my job much easier.
+167,New York,55+,Non-binary,Sales,Healthcare,Copilot,Asana | Jira | Slack | Salesforce,10,3,
+168,Illinois,35-44,Non-binary,Sales,Finance,Gemini,Zoom,8,2,I love the team culture here.
+169,Florida,35-44,Non-binary,Sales,Healthcare,Claude | Gemini | ChatGPT,Zoom,10,1,AI has made my job much easier.
+170,California,25-34,Male,Engineer,Tech,Claude | Gemini | Other,Slack | Salesforce | Zoom | Asana,6,7,
+171,California,18-24,Male,Data Analyst,Finance,Other,Zoom | Jira,7,10,
+172,New York,18-24,Male,Manager,Education,ChatGPT | Claude,Salesforce | Notion | Asana,10,5,Great opportunities for growth.
+173,Texas,45-54,Non-binary,Manager,Retail,Gemini,Zoom | Salesforce | Notion,9,5,Management could improve communication.
+174,Illinois,35-44,Female,Engineer,Tech,Claude | Gemini | Other,Salesforce | Asana,3,7,I love the team culture here.
+175,Texas,35-44,Non-binary,Sales,Finance,Other | ChatGPT | Copilot,Jira,10,2,I enjoy my role but workload is high.
+176,Florida,18-24,Female,Sales,Finance,Other,Jira | Zoom | Asana,2,6,
+177,Illinois,18-24,Prefer not to say,Manager,Finance,Gemini | Copilot | Other,Salesforce | Notion,9,6,I love the team culture here.
+178,Florida,45-54,Non-binary,Data Analyst,Retail,Other | Copilot,Notion | Asana | Jira | Slack,7,6,I enjoy my role but workload is high.
+179,Illinois,45-54,Male,HR,Education,Other,Zoom,6,3,
+180,New York,18-24,Female,Manager,Healthcare,Other,Salesforce | Notion | Jira,10,6,I love the team culture here.
+181,Florida,45-54,Prefer not to say,Sales,Healthcare,Gemini | Copilot,Asana | Zoom | Notion,8,8,I enjoy my role but workload is high.
+182,Florida,55+,Male,Manager,Education,Other | ChatGPT | Claude,Slack | Jira | Salesforce,4,4,I love the team culture here.
+183,California,35-44,Prefer not to say,Engineer,Finance,ChatGPT,Notion | Jira,3,9,I love the team culture here.
+184,California,55+,Non-binary,Manager,Retail,Claude,Slack | Asana | Jira | Notion,3,6,
+185,Illinois,55+,Non-binary,Engineer,Finance,Claude | ChatGPT | Copilot,Jira,9,8,I enjoy my role but workload is high.
+186,California,55+,Female,Engineer,Tech,Gemini | Other | Copilot,Salesforce | Notion | Slack | Jira,2,3,I love the team culture here.
+187,Florida,45-54,Prefer not to say,Data Analyst,Tech,Copilot | Claude | ChatGPT,Salesforce | Jira | Asana | Zoom,7,9,I enjoy my role but workload is high.
+188,Florida,25-34,Non-binary,Sales,Tech,Gemini | Other,Notion | Zoom | Asana,2,6,Great opportunities for growth.
+189,Texas,18-24,Non-binary,Sales,Retail,Claude | Copilot | Other,Zoom | Jira,7,9,
+190,California,45-54,Male,Engineer,Education,Gemini | Other | ChatGPT,Slack | Salesforce | Asana,10,2,
+191,Florida,25-34,Prefer not to say,Engineer,Finance,Gemini | ChatGPT,Salesforce | Asana | Notion | Slack,10,9,Great opportunities for growth.
+192,California,35-44,Prefer not to say,Manager,Education,Other | Copilot,Slack,3,8,AI has made my job much easier.
+193,California,18-24,Female,Data Analyst,Retail,ChatGPT | Claude | Other,Salesforce | Zoom | Notion,5,3,I enjoy my role but workload is high.
+194,Texas,45-54,Prefer not to say,Data Analyst,Education,ChatGPT,Salesforce | Jira | Slack | Notion,5,2,AI has made my job much easier.
+195,New York,45-54,Prefer not to say,HR,Retail,ChatGPT | Claude | Copilot,Notion | Zoom | Jira | Salesforce,10,9,I love the team culture here.
+196,Illinois,35-44,Female,Manager,Finance,ChatGPT | Claude,Zoom,8,9,AI has made my job much easier.
+197,Texas,45-54,Male,Data Analyst,Finance,ChatGPT | Other | Gemini,Salesforce | Notion | Zoom,2,3,I enjoy my role but workload is high.
+198,California,25-34,Female,Data Analyst,Finance,ChatGPT | Claude | Other,Notion | Jira,5,6,I love the team culture here.
+199,California,18-24,Non-binary,Sales,Finance,ChatGPT | Gemini | Copilot,Salesforce | Jira,10,3,Management could improve communication.
+200,Illinois,25-34,Male,Data Analyst,Education,ChatGPT | Copilot,Salesforce | Slack,10,4,I love the team culture here.
+201,Texas,55+,Female,Data Analyst,Finance,Other | Claude,Asana,2,2,I enjoy my role but workload is high.
+202,New York,45-54,Male,Manager,Retail,Claude | Copilot,Notion,2,8,AI has made my job much easier.
+203,Texas,25-34,Female,Data Analyst,Retail,Copilot,Slack,1,3,AI has made my job much easier.
+204,California,35-44,Female,Manager,Education,Other | ChatGPT,Salesforce | Jira | Notion,3,10,
+205,Illinois,35-44,Male,Sales,Finance,Other | ChatGPT | Copilot,Zoom | Salesforce | Notion | Jira,8,4,AI has made my job much easier.
+206,New York,35-44,Female,Manager,Tech,Copilot,Notion | Slack | Jira,10,9,Management could improve communication.
+207,Illinois,35-44,Prefer not to say,Engineer,Tech,Claude,Salesforce | Slack | Asana | Zoom,9,9,
+208,Florida,25-34,Prefer not to say,Data Analyst,Education,ChatGPT | Gemini,Jira | Notion | Salesforce | Slack,6,4,AI has made my job much easier.
+209,Texas,45-54,Non-binary,Sales,Tech,Other,Jira | Notion | Asana | Slack,6,1,AI has made my job much easier.
+210,California,18-24,Male,Manager,Retail,ChatGPT,Zoom | Slack | Notion,5,1,I love the team culture here.
+211,New York,25-34,Prefer not to say,Engineer,Education,Claude | Copilot,Jira | Notion | Asana,8,6,
+212,California,45-54,Male,Manager,Education,ChatGPT,Zoom | Notion | Asana,9,2,
+213,Illinois,25-34,Female,Manager,Tech,Other | ChatGPT | Copilot,Jira,10,2,I enjoy my role but workload is high.
+214,Texas,25-34,Non-binary,Sales,Retail,Claude | Gemini | Copilot,Jira | Asana | Notion,5,6,
+215,California,45-54,Female,Data Analyst,Tech,Copilot | Claude,Asana | Jira | Salesforce | Zoom,6,2,I love the team culture here.
+216,California,25-34,Female,Engineer,Healthcare,Claude | Copilot | ChatGPT,Salesforce | Zoom | Notion | Asana,10,7,
+217,Florida,45-54,Female,Engineer,Tech,Claude | Gemini,Asana | Slack | Zoom,9,6,
+218,Illinois,35-44,Prefer not to say,Engineer,Education,ChatGPT | Claude,Slack | Salesforce | Asana | Zoom,6,7,I enjoy my role but workload is high.
+219,New York,25-34,Non-binary,HR,Tech,Gemini | Other,Notion | Salesforce,4,6,Management could improve communication.
+220,Florida,25-34,Female,Engineer,Healthcare,Other,Salesforce | Notion | Slack | Jira,1,9,AI has made my job much easier.
+221,California,45-54,Male,Data Analyst,Healthcare,Claude,Notion | Jira | Slack | Asana,6,7,AI has made my job much easier.
+222,California,35-44,Non-binary,Engineer,Finance,ChatGPT,Slack | Zoom | Jira,9,6,
+223,Texas,18-24,Prefer not to say,Data Analyst,Education,Other,Salesforce,9,3,
+224,Texas,45-54,Prefer not to say,Engineer,Finance,Claude | Other | Copilot,Notion | Slack | Salesforce,9,5,
+225,Illinois,45-54,Non-binary,Data Analyst,Finance,Other | Gemini,Jira | Notion | Slack | Asana,8,1,I enjoy my role but workload is high.
+226,California,45-54,Prefer not to say,HR,Retail,Copilot | Other,Salesforce | Asana | Jira,5,4,
+227,California,35-44,Male,Manager,Tech,Other,Salesforce | Notion | Slack,3,7,Great opportunities for growth.
+228,Florida,35-44,Female,Data Analyst,Healthcare,ChatGPT | Gemini,Salesforce | Slack | Jira | Zoom,2,9,AI has made my job much easier.
+229,California,25-34,Female,HR,Retail,ChatGPT | Other | Gemini,Jira,7,7,
+230,New York,35-44,Non-binary,HR,Education,Other | ChatGPT,Asana | Slack | Notion | Jira,5,3,I love the team culture here.
+231,Illinois,55+,Non-binary,HR,Finance,Copilot,Asana | Salesforce,10,8,
+232,Florida,55+,Female,Engineer,Tech,ChatGPT | Other,Asana | Slack,2,10,I love the team culture here.
+233,Texas,45-54,Non-binary,Engineer,Healthcare,Copilot,Slack,8,5,AI has made my job much easier.
+234,Florida,45-54,Non-binary,Engineer,Education,Gemini | Copilot,Zoom | Notion | Slack | Jira,9,5,Great opportunities for growth.
+235,Texas,45-54,Prefer not to say,Sales,Tech,Other | Claude | ChatGPT,Notion,8,4,Management could improve communication.
+236,Texas,25-34,Non-binary,Engineer,Retail,Claude | Copilot | Gemini,Salesforce,7,1,I love the team culture here.
+237,California,35-44,Male,Data Analyst,Retail,ChatGPT,Jira,8,5,Management could improve communication.
+238,Texas,18-24,Non-binary,Engineer,Education,ChatGPT | Gemini | Other,Zoom,3,10,I enjoy my role but workload is high.
+239,Florida,25-34,Prefer not to say,Data Analyst,Education,Claude | Other,Salesforce,2,9,I love the team culture here.
+240,New York,25-34,Non-binary,Data Analyst,Healthcare,Copilot,Salesforce | Asana | Slack,1,3,I enjoy my role but workload is high.
+241,Illinois,25-34,Prefer not to say,HR,Education,Other,Salesforce | Notion | Slack | Asana,2,5,I enjoy my role but workload is high.
+242,Texas,55+,Non-binary,Data Analyst,Finance,Gemini | Other,Jira | Slack | Asana | Notion,7,3,
+243,New York,35-44,Male,Manager,Retail,Gemini | Copilot,Jira | Zoom | Notion | Asana,10,5,I love the team culture here.
+244,Florida,35-44,Prefer not to say,HR,Education,ChatGPT | Claude,Notion,1,2,AI has made my job much easier.
+245,New York,45-54,Female,Manager,Tech,Other,Asana | Jira,10,6,AI has made my job much easier.
+246,California,35-44,Male,Manager,Healthcare,Copilot | Claude,Asana,2,4,
+247,Florida,45-54,Non-binary,Manager,Healthcare,Other | Copilot | Gemini,Asana | Salesforce | Slack | Zoom,5,7,
+248,California,35-44,Prefer not to say,HR,Retail,ChatGPT | Claude | Gemini,Notion | Slack | Asana | Zoom,3,4,I love the team culture here.
+249,California,35-44,Male,Sales,Education,Copilot | Other | ChatGPT,Jira | Zoom | Notion | Salesforce,7,2,
+250,Texas,35-44,Prefer not to say,Data Analyst,Tech,ChatGPT | Gemini,Jira | Zoom | Notion | Salesforce,9,6,
+251,Florida,35-44,Male,HR,Retail,Claude | Copilot | Gemini,Zoom | Slack | Notion,3,8,
+252,Texas,25-34,Male,Sales,Education,Copilot,Zoom | Asana | Salesforce,8,4,
+253,New York,45-54,Non-binary,Sales,Education,Claude | Gemini | Copilot,Zoom | Notion | Jira | Asana,3,5,Great opportunities for growth.
+254,Florida,18-24,Prefer not to say,Sales,Finance,Claude,Slack,9,5,
+255,California,25-34,Prefer not to say,Engineer,Education,Copilot | Claude,Asana | Salesforce | Jira,2,8,I enjoy my role but workload is high.
+256,California,45-54,Non-binary,Engineer,Retail,Other,Jira,4,8,
+257,Florida,18-24,Prefer not to say,Sales,Retail,Other | Claude,Slack | Salesforce | Asana | Jira,4,1,Management could improve communication.
+258,Illinois,25-34,Male,Manager,Healthcare,Gemini | Other,Salesforce | Notion,9,9,Management could improve communication.
+259,California,25-34,Non-binary,Engineer,Retail,ChatGPT | Gemini | Claude,Notion | Zoom | Slack | Asana,2,10,Management could improve communication.
+260,California,55+,Male,Engineer,Education,Other | Gemini,Asana | Slack | Notion,1,3,Management could improve communication.
+261,Illinois,45-54,Prefer not to say,Manager,Retail,Other | ChatGPT | Gemini,Notion,8,9,Great opportunities for growth.
+262,Illinois,55+,Male,Manager,Retail,Claude,Notion,3,5,I love the team culture here.
+263,California,35-44,Male,Engineer,Finance,Claude,Slack,8,10,Management could improve communication.
+264,Florida,35-44,Female,Sales,Tech,Copilot | Other,Asana | Zoom | Slack | Notion,3,5,Management could improve communication.
+265,Texas,25-34,Male,Data Analyst,Education,Gemini | ChatGPT | Claude,Jira | Slack | Notion,6,1,
+266,California,25-34,Male,Sales,Education,Other,Slack | Jira,1,2,I love the team culture here.
+267,Illinois,45-54,Male,Engineer,Retail,ChatGPT | Copilot | Other,Zoom | Asana,3,2,
+268,California,55+,Prefer not to say,Manager,Finance,Other | Copilot | Claude,Zoom | Notion,9,4,Great opportunities for growth.
+269,Florida,35-44,Prefer not to say,Manager,Tech,Gemini | Other | ChatGPT,Notion | Zoom | Salesforce,1,10,I love the team culture here.
+270,California,18-24,Prefer not to say,Manager,Healthcare,Claude,Jira | Salesforce | Asana | Slack,2,1,Management could improve communication.
+271,Florida,35-44,Prefer not to say,Sales,Tech,Copilot,Salesforce | Zoom | Notion,7,1,
+272,Illinois,35-44,Female,Data Analyst,Tech,Claude,Notion | Jira | Asana | Zoom,1,1,I enjoy my role but workload is high.
+273,California,35-44,Female,Sales,Education,Claude | Gemini | Other,Notion | Salesforce | Zoom | Jira,6,7,I love the team culture here.
+274,Illinois,35-44,Male,Sales,Tech,Other | ChatGPT | Copilot,Notion,6,9,I love the team culture here.
+275,Illinois,45-54,Non-binary,Sales,Healthcare,Claude | Copilot,Jira | Zoom,5,2,I enjoy my role but workload is high.
+276,Illinois,45-54,Male,Data Analyst,Education,Copilot | Claude | Gemini,Salesforce | Slack,2,2,Great opportunities for growth.
+277,Texas,35-44,Prefer not to say,Data Analyst,Finance,Claude,Asana | Slack,6,1,Great opportunities for growth.
+278,California,45-54,Prefer not to say,Sales,Tech,Other | ChatGPT,Asana | Slack | Notion,10,3,
+279,California,35-44,Female,Data Analyst,Education,ChatGPT | Other,Notion | Asana,1,5,
+280,Florida,45-54,Female,Sales,Tech,Other | Claude | Copilot,Asana | Salesforce | Slack,7,6,I love the team culture here.
+281,California,45-54,Female,Manager,Tech,Claude | Gemini | Other,Notion | Zoom,1,9,I love the team culture here.
+282,New York,45-54,Male,Engineer,Healthcare,Other,Notion | Salesforce | Jira | Slack,6,5,AI has made my job much easier.
+283,Florida,18-24,Non-binary,Data Analyst,Healthcare,ChatGPT | Claude,Zoom | Slack,3,6,I love the team culture here.
+284,Illinois,18-24,Prefer not to say,Engineer,Finance,Claude | ChatGPT | Copilot,Asana | Salesforce | Slack | Notion,10,10,I love the team culture here.
+285,Texas,18-24,Prefer not to say,Sales,Retail,ChatGPT | Copilot | Gemini,Notion | Salesforce | Jira,10,3,I love the team culture here.
+286,Texas,35-44,Prefer not to say,Sales,Healthcare,Claude | Copilot,Notion | Slack,1,2,I love the team culture here.
+287,Texas,25-34,Non-binary,Sales,Finance,ChatGPT | Other,Jira | Salesforce | Asana | Notion,4,1,Great opportunities for growth.
+288,Florida,35-44,Prefer not to say,Data Analyst,Healthcare,Copilot,Slack | Zoom | Notion | Asana,1,9,Management could improve communication.
+289,California,35-44,Male,Sales,Finance,Gemini | Other,Zoom | Notion | Slack,10,5,Great opportunities for growth.
+290,Illinois,25-34,Non-binary,Data Analyst,Tech,Copilot | ChatGPT | Other,Asana | Zoom | Salesforce,5,2,I love the team culture here.
+291,Illinois,35-44,Prefer not to say,Data Analyst,Retail,ChatGPT,Zoom | Notion | Asana | Jira,2,5,Great opportunities for growth.
+292,Florida,18-24,Female,Manager,Healthcare,Gemini | Other,Slack | Asana | Salesforce | Notion,6,7,
+293,Illinois,45-54,Non-binary,Sales,Tech,Copilot | Gemini | Claude,Slack,7,4,
+294,New York,18-24,Non-binary,Engineer,Healthcare,Gemini | Claude | Copilot,Notion | Asana | Salesforce,1,3,
+295,New York,55+,Prefer not to say,Engineer,Healthcare,Copilot | ChatGPT | Claude,Salesforce | Notion | Zoom,9,5,
+296,Texas,45-54,Non-binary,Manager,Healthcare,Claude | ChatGPT | Gemini,Notion | Asana,9,9,Great opportunities for growth.
+297,Texas,25-34,Female,HR,Tech,ChatGPT,Asana | Slack | Jira | Salesforce,10,4,AI has made my job much easier.
+298,Texas,45-54,Female,HR,Tech,Copilot | Gemini | Other,Zoom | Salesforce | Notion | Slack,10,2,
+299,Florida,35-44,Female,Sales,Tech,Copilot | Other,Slack | Jira | Asana,1,4,AI has made my job much easier.
+300,California,18-24,Non-binary,Manager,Finance,Gemini | Copilot,Jira | Notion | Salesforce | Zoom,8,8,
+301,Illinois,55+,Prefer not to say,Sales,Finance,Copilot | Gemini | Claude,Asana | Zoom,1,4,I love the team culture here.
+302,New York,25-34,Prefer not to say,HR,Finance,Copilot | Other | ChatGPT,Slack | Asana | Salesforce,9,2,I love the team culture here.
+303,New York,55+,Male,Data Analyst,Retail,Gemini,Slack,2,9,
+304,Florida,45-54,Male,Data Analyst,Education,Gemini | Copilot,Salesforce,6,10,I enjoy my role but workload is high.
+305,California,55+,Male,Data Analyst,Retail,Copilot,Slack | Zoom,9,5,Management could improve communication.
+306,Florida,25-34,Prefer not to say,Engineer,Retail,ChatGPT | Copilot,Asana,9,8,
+307,Illinois,35-44,Prefer not to say,Engineer,Finance,Copilot | Claude | Gemini,Notion | Asana | Jira,7,4,
+308,New York,25-34,Prefer not to say,Sales,Retail,ChatGPT | Claude,Notion | Salesforce | Slack | Zoom,3,4,I love the team culture here.
+309,New York,18-24,Female,Data Analyst,Healthcare,Other | Claude,Asana | Notion,9,9,
+310,New York,55+,Prefer not to say,Data Analyst,Finance,Copilot | Claude | Other,Jira | Asana,6,8,Great opportunities for growth.
+311,California,25-34,Non-binary,HR,Healthcare,Gemini,Salesforce | Notion,9,5,
+312,Texas,35-44,Male,Manager,Retail,ChatGPT | Copilot,Jira | Notion | Asana,7,1,Management could improve communication.
+313,Texas,45-54,Female,Manager,Tech,Claude | Other | Gemini,Zoom | Jira | Slack,5,9,
+314,California,35-44,Prefer not to say,Data Analyst,Retail,Gemini | Other | Claude,Salesforce | Slack | Zoom | Asana,8,5,I enjoy my role but workload is high.
+315,New York,45-54,Male,HR,Tech,Copilot | Claude,Salesforce | Notion,7,9,Management could improve communication.
+316,California,18-24,Non-binary,Sales,Retail,Other | ChatGPT | Copilot,Notion | Slack | Zoom,8,9,
+317,Florida,25-34,Prefer not to say,Sales,Education,Other | ChatGPT | Claude,Jira | Slack | Asana,8,6,I enjoy my role but workload is high.
+318,Illinois,25-34,Prefer not to say,Sales,Education,Gemini | Claude | ChatGPT,Salesforce | Slack,4,6,Great opportunities for growth.
+319,New York,25-34,Prefer not to say,Engineer,Finance,ChatGPT,Jira | Slack | Notion | Asana,1,7,I love the team culture here.
+320,Texas,55+,Prefer not to say,Data Analyst,Retail,ChatGPT | Other,Asana,7,6,I enjoy my role but workload is high.
+321,New York,18-24,Prefer not to say,Sales,Healthcare,Copilot | ChatGPT,Notion | Slack | Zoom,8,6,
+322,Florida,18-24,Non-binary,Manager,Tech,Gemini | Claude | Other,Salesforce | Slack,10,9,Great opportunities for growth.
+323,Florida,25-34,Female,HR,Finance,Claude | Other,Notion | Zoom | Slack | Salesforce,2,5,AI has made my job much easier.
+324,Texas,35-44,Male,Data Analyst,Tech,Copilot,Slack | Zoom,10,9,AI has made my job much easier.
+325,Texas,25-34,Male,HR,Healthcare,ChatGPT,Jira,4,1,I enjoy my role but workload is high.
+326,Illinois,45-54,Female,Data Analyst,Tech,Gemini | Copilot,Notion | Zoom,10,10,AI has made my job much easier.
+327,New York,35-44,Non-binary,Manager,Retail,Copilot | ChatGPT | Claude,Salesforce,10,6,I love the team culture here.
+328,California,35-44,Female,Sales,Tech,Claude | Copilot | Other,Jira,8,7,
+329,Florida,18-24,Prefer not to say,Manager,Healthcare,Copilot | ChatGPT | Claude,Jira | Notion | Slack | Asana,10,2,I enjoy my role but workload is high.
+330,Illinois,18-24,Prefer not to say,Engineer,Healthcare,Other | Copilot | Claude,Notion | Zoom | Salesforce,9,3,Great opportunities for growth.
+331,Florida,45-54,Female,Data Analyst,Tech,Claude | ChatGPT | Copilot,Zoom,2,4,Management could improve communication.
+332,Illinois,25-34,Non-binary,Manager,Education,Gemini | Copilot,Zoom | Asana | Slack,10,2,Great opportunities for growth.
+333,Florida,45-54,Non-binary,Engineer,Education,Claude,Slack | Notion,8,4,I love the team culture here.
+334,Florida,35-44,Female,Manager,Finance,Gemini | Other | Copilot,Salesforce | Jira | Asana | Notion,4,4,
+335,California,18-24,Prefer not to say,Manager,Healthcare,Copilot | Claude,Asana | Jira | Slack | Zoom,10,1,I enjoy my role but workload is high.
+336,California,18-24,Male,Sales,Finance,Other,Asana | Zoom | Slack,7,7,
+337,New York,35-44,Prefer not to say,HR,Retail,Gemini,Notion | Jira | Asana | Slack,3,3,I enjoy my role but workload is high.
+338,Illinois,45-54,Female,Data Analyst,Finance,Claude | Gemini | ChatGPT,Asana | Notion | Salesforce | Jira,7,3,
+339,Texas,25-34,Non-binary,Engineer,Education,Other | Claude,Salesforce | Asana | Zoom | Slack,6,1,I love the team culture here.
+340,Illinois,45-54,Female,Engineer,Tech,Gemini | Copilot,Zoom | Jira | Notion,9,5,Great opportunities for growth.
+341,Texas,45-54,Female,Manager,Finance,Other | Claude | ChatGPT,Zoom | Slack | Asana | Jira,8,4,I love the team culture here.
+342,Florida,35-44,Non-binary,Data Analyst,Finance,Other,Zoom | Notion,2,9,I enjoy my role but workload is high.
+343,Florida,45-54,Prefer not to say,HR,Tech,Gemini | Copilot,Zoom,5,1,Great opportunities for growth.
+344,California,35-44,Non-binary,Sales,Tech,Gemini | Copilot,Jira | Asana | Slack,2,2,AI has made my job much easier.
+345,Illinois,55+,Non-binary,Manager,Education,Gemini | Other | Claude,Notion | Jira,10,3,I love the team culture here.
+346,Illinois,25-34,Non-binary,Engineer,Retail,Claude | Copilot,Salesforce | Slack | Jira,3,8,
+347,Texas,25-34,Male,Data Analyst,Finance,ChatGPT | Other | Claude,Slack,4,5,AI has made my job much easier.
+348,Florida,45-54,Non-binary,Manager,Tech,Other | Gemini | ChatGPT,Salesforce | Slack,9,7,
+349,New York,35-44,Female,Data Analyst,Healthcare,Claude,Jira | Notion | Asana,9,10,Great opportunities for growth.
+350,Illinois,35-44,Male,Sales,Healthcare,Other | ChatGPT | Claude,Salesforce | Zoom | Asana | Notion,4,1,Management could improve communication.
+351,Texas,25-34,Male,HR,Healthcare,Copilot | ChatGPT | Gemini,Notion | Slack,10,1,Great opportunities for growth.
+352,Florida,25-34,Female,Sales,Education,Claude | Copilot | Gemini,Notion | Asana | Jira | Salesforce,7,7,I enjoy my role but workload is high.
+353,Illinois,35-44,Non-binary,Manager,Retail,Other,Asana | Slack | Jira,1,1,Management could improve communication.
+354,New York,45-54,Male,Manager,Healthcare,Gemini | Claude | ChatGPT,Slack | Salesforce | Jira | Asana,1,3,
+355,Texas,18-24,Prefer not to say,Data Analyst,Tech,Copilot | ChatGPT | Claude,Zoom,5,10,Great opportunities for growth.
+356,California,25-34,Prefer not to say,HR,Healthcare,Copilot | Claude | Gemini,Notion | Zoom | Salesforce,5,8,AI has made my job much easier.
+357,Texas,45-54,Female,Engineer,Education,ChatGPT,Notion | Jira | Salesforce,9,10,I enjoy my role but workload is high.
+358,Texas,35-44,Female,Data Analyst,Education,Copilot | Other | Claude,Jira | Salesforce | Slack | Notion,4,9,I enjoy my role but workload is high.
+359,Illinois,45-54,Female,HR,Education,Claude | Gemini,Jira | Asana,9,4,I enjoy my role but workload is high.
+360,California,55+,Prefer not to say,Manager,Healthcare,Gemini | ChatGPT | Claude,Zoom,10,1,
+361,Florida,25-34,Non-binary,Manager,Finance,Gemini | Claude,Slack,7,7,
+362,Florida,45-54,Male,Sales,Finance,Other,Zoom,2,1,AI has made my job much easier.
+363,Texas,35-44,Prefer not to say,HR,Tech,Other,Slack | Salesforce,2,7,Great opportunities for growth.
+364,California,55+,Male,HR,Healthcare,ChatGPT | Copilot,Asana | Zoom,7,9,
+365,New York,25-34,Female,HR,Tech,Copilot | Gemini,Asana | Jira | Notion,2,8,AI has made my job much easier.
+366,Texas,45-54,Female,HR,Healthcare,ChatGPT | Copilot | Other,Jira | Slack,2,3,
+367,Illinois,55+,Female,Engineer,Education,ChatGPT,Jira | Slack,6,5,I enjoy my role but workload is high.
+368,Texas,55+,Prefer not to say,Data Analyst,Education,Other | Copilot | Claude,Salesforce | Zoom,1,1,Management could improve communication.
+369,Texas,55+,Prefer not to say,Sales,Finance,Other | ChatGPT,Asana | Salesforce,3,5,Management could improve communication.
+370,New York,45-54,Non-binary,Manager,Healthcare,Copilot | ChatGPT | Gemini,Asana | Jira,6,5,AI has made my job much easier.
+371,California,55+,Prefer not to say,HR,Healthcare,ChatGPT | Copilot,Slack | Jira | Salesforce | Asana,6,8,AI has made my job much easier.
+372,New York,35-44,Non-binary,Data Analyst,Healthcare,ChatGPT | Gemini,Asana | Notion | Jira | Slack,1,6,I enjoy my role but workload is high.
+373,Florida,35-44,Male,HR,Retail,Other | Gemini,Slack,7,4,Management could improve communication.
+374,Illinois,35-44,Prefer not to say,Engineer,Tech,Claude,Notion | Slack | Zoom,10,9,I love the team culture here.
+375,Illinois,45-54,Prefer not to say,Sales,Finance,Gemini | Claude,Asana | Zoom | Jira,3,10,AI has made my job much easier.
+376,Texas,18-24,Female,Engineer,Retail,Gemini,Notion | Zoom,3,8,
+377,New York,55+,Non-binary,Manager,Healthcare,Claude | ChatGPT | Copilot,Zoom,3,6,Great opportunities for growth.
+378,Florida,18-24,Male,Data Analyst,Education,Other | Claude,Salesforce,2,6,Management could improve communication.
+379,Florida,35-44,Male,HR,Healthcare,Copilot | Claude,Notion | Salesforce | Asana | Slack,6,7,
+380,California,18-24,Male,Engineer,Retail,Other,Asana | Zoom | Jira,10,8,
+381,Texas,55+,Prefer not to say,Data Analyst,Education,Copilot,Notion | Slack | Jira | Salesforce,5,10,Great opportunities for growth.
+382,Illinois,45-54,Female,Engineer,Finance,ChatGPT,Slack | Notion | Jira,8,4,I enjoy my role but workload is high.
+383,California,45-54,Male,Data Analyst,Healthcare,ChatGPT | Copilot,Zoom | Asana | Salesforce,8,5,Great opportunities for growth.
+384,Illinois,18-24,Male,Data Analyst,Healthcare,Copilot | Gemini,Salesforce | Notion,9,10,AI has made my job much easier.
+385,New York,18-24,Male,Sales,Education,ChatGPT | Gemini | Copilot,Notion | Jira,8,7,
+386,Illinois,25-34,Female,Engineer,Finance,Gemini | Copilot,Slack | Notion | Salesforce | Zoom,4,3,Great opportunities for growth.
+387,California,35-44,Non-binary,Sales,Education,Copilot,Zoom,8,10,AI has made my job much easier.
+388,Illinois,45-54,Prefer not to say,HR,Finance,ChatGPT | Claude | Gemini,Notion | Asana | Zoom | Slack,2,9,Management could improve communication.
+389,New York,55+,Male,HR,Healthcare,ChatGPT | Gemini | Other,Zoom,4,2,Great opportunities for growth.
+390,Florida,18-24,Non-binary,HR,Healthcare,Gemini | ChatGPT | Claude,Salesforce | Jira,10,2,AI has made my job much easier.
+391,Illinois,55+,Non-binary,HR,Finance,ChatGPT,Jira | Notion | Slack,9,8,I enjoy my role but workload is high.
+392,Florida,35-44,Prefer not to say,Manager,Healthcare,Gemini | Copilot | ChatGPT,Jira | Notion,10,5,I enjoy my role but workload is high.
+393,Texas,45-54,Male,HR,Tech,Other | Gemini | Copilot,Zoom | Notion,1,6,Management could improve communication.
+394,Illinois,45-54,Male,Engineer,Finance,Claude | Copilot | ChatGPT,Asana,7,7,
+395,Florida,55+,Female,Engineer,Healthcare,Other,Salesforce | Slack | Zoom,3,8,
+396,California,35-44,Male,Sales,Education,ChatGPT,Salesforce | Jira,2,1,Great opportunities for growth.
+397,Texas,55+,Non-binary,Data Analyst,Finance,ChatGPT | Other | Claude,Slack | Salesforce | Jira,3,6,Great opportunities for growth.
+398,Texas,45-54,Female,Data Analyst,Education,Copilot | Gemini,Slack | Asana | Salesforce | Jira,2,5,Management could improve communication.
+399,Illinois,18-24,Prefer not to say,HR,Healthcare,Claude,Zoom | Slack | Salesforce | Asana,6,7,AI has made my job much easier.
+400,Texas,25-34,Prefer not to say,Engineer,Healthcare,Claude | ChatGPT | Gemini,Notion | Asana,1,3,Great opportunities for growth.
+401,Florida,35-44,Non-binary,Engineer,Retail,Claude | Copilot | Gemini,Jira | Zoom | Notion,5,6,Management could improve communication.
+402,Texas,18-24,Male,Manager,Tech,Other | Copilot,Slack | Asana | Notion | Jira,4,10,
+403,Illinois,35-44,Male,HR,Healthcare,Other | Copilot,Slack | Asana | Jira,8,6,
+404,Illinois,18-24,Male,Sales,Healthcare,Claude | Gemini | Other,Notion | Jira | Zoom | Asana,6,6,I love the team culture here.
+405,Illinois,55+,Prefer not to say,Sales,Retail,ChatGPT | Gemini,Zoom | Jira | Notion | Salesforce,6,7,Great opportunities for growth.
+406,Illinois,25-34,Non-binary,Engineer,Tech,Gemini | Other | Claude,Zoom | Notion,4,2,AI has made my job much easier.
+407,California,55+,Non-binary,Manager,Tech,Other | ChatGPT | Claude,Jira,1,3,Management could improve communication.
+408,Florida,25-34,Non-binary,Manager,Retail,Claude | ChatGPT,Salesforce,7,3,I love the team culture here.
+409,Illinois,55+,Non-binary,Sales,Finance,Gemini | Claude | Copilot,Asana,1,4,Great opportunities for growth.
+410,Illinois,35-44,Non-binary,Engineer,Healthcare,Gemini,Jira | Notion | Slack,1,10,Great opportunities for growth.
+411,Texas,55+,Female,Manager,Retail,ChatGPT,Zoom | Notion | Salesforce | Asana,5,9,Great opportunities for growth.
+412,New York,35-44,Prefer not to say,Manager,Retail,Claude | ChatGPT,Salesforce,10,3,
+413,New York,35-44,Non-binary,Data Analyst,Retail,Gemini | Copilot | ChatGPT,Notion | Slack | Jira,4,7,Management could improve communication.
+414,Illinois,45-54,Non-binary,HR,Healthcare,Other,Asana | Slack,10,2,AI has made my job much easier.
+415,Illinois,18-24,Male,Manager,Education,ChatGPT | Other,Salesforce | Slack | Notion,9,7,Great opportunities for growth.
+416,California,18-24,Female,Engineer,Education,Copilot | Gemini | Claude,Asana,9,1,I love the team culture here.
+417,New York,35-44,Male,HR,Education,Copilot,Zoom | Notion | Slack,10,10,AI has made my job much easier.
+418,Florida,18-24,Male,Sales,Education,Gemini | ChatGPT | Copilot,Jira | Salesforce | Slack,6,3,I love the team culture here.
+419,California,25-34,Non-binary,Engineer,Retail,ChatGPT | Copilot,Slack | Salesforce,10,10,Great opportunities for growth.
+420,Illinois,45-54,Female,HR,Healthcare,Gemini | ChatGPT | Claude,Slack,6,9,
+421,New York,18-24,Prefer not to say,Sales,Education,Copilot | ChatGPT,Salesforce | Slack | Asana,7,3,
+422,Florida,45-54,Prefer not to say,Data Analyst,Healthcare,Copilot | Other,Jira | Zoom | Salesforce,9,6,
+423,Texas,55+,Male,HR,Finance,Copilot | ChatGPT | Claude,Slack | Salesforce | Zoom | Asana,9,8,I love the team culture here.
+424,Illinois,35-44,Male,Manager,Finance,ChatGPT | Copilot,Slack | Notion | Jira | Zoom,6,2,Great opportunities for growth.
+425,California,55+,Non-binary,Sales,Healthcare,Claude | Copilot | Other,Jira | Asana | Notion | Salesforce,6,3,Great opportunities for growth.
+426,California,45-54,Male,HR,Finance,Claude | ChatGPT,Salesforce | Asana,1,10,Great opportunities for growth.
+427,Texas,18-24,Male,HR,Finance,Claude,Salesforce | Jira | Zoom | Slack,9,6,Great opportunities for growth.
+428,Florida,55+,Male,Sales,Retail,Copilot | Claude,Zoom | Salesforce | Asana,4,10,AI has made my job much easier.
+429,Texas,25-34,Prefer not to say,HR,Healthcare,ChatGPT,Jira,9,3,
+430,Illinois,45-54,Prefer not to say,HR,Finance,ChatGPT | Copilot,Asana | Notion | Zoom | Salesforce,9,8,AI has made my job much easier.
+431,Florida,35-44,Prefer not to say,Manager,Healthcare,ChatGPT | Claude | Copilot,Notion | Jira | Slack,7,7,I enjoy my role but workload is high.
+432,New York,18-24,Male,HR,Education,ChatGPT,Slack,7,5,Great opportunities for growth.
+433,California,18-24,Non-binary,Manager,Retail,ChatGPT | Claude | Copilot,Asana | Notion | Jira | Salesforce,4,3,I enjoy my role but workload is high.
+434,California,25-34,Female,Manager,Tech,Claude | Gemini,Jira | Asana,7,3,I love the team culture here.
+435,Texas,25-34,Female,HR,Education,Other,Zoom | Jira | Notion | Asana,8,2,I enjoy my role but workload is high.
+436,Texas,18-24,Non-binary,Sales,Healthcare,Copilot,Slack | Salesforce | Asana | Notion,2,9,I love the team culture here.
+437,Illinois,55+,Female,Sales,Retail,Gemini | Other,Notion | Jira | Asana,7,7,Great opportunities for growth.
+438,Illinois,18-24,Female,Data Analyst,Finance,Claude,Notion | Zoom | Asana,10,4,
+439,New York,18-24,Female,Manager,Education,Other | Gemini | Claude,Zoom | Notion | Jira | Salesforce,10,10,I love the team culture here.
+440,New York,18-24,Prefer not to say,Manager,Retail,Other | Copilot,Asana | Salesforce | Notion | Slack,8,9,AI has made my job much easier.
+441,New York,55+,Female,Data Analyst,Healthcare,Copilot | ChatGPT,Jira | Zoom | Notion,10,10,
+442,Illinois,45-54,Female,Data Analyst,Tech,Copilot | Gemini | ChatGPT,Slack,10,1,Management could improve communication.
+443,New York,55+,Female,HR,Healthcare,Gemini | Other,Notion | Zoom | Asana | Slack,10,3,I love the team culture here.
+444,New York,45-54,Prefer not to say,Sales,Retail,Copilot | Gemini,Asana | Jira | Salesforce | Slack,4,3,Management could improve communication.
+445,Florida,18-24,Male,HR,Tech,ChatGPT | Gemini,Slack | Jira | Zoom | Salesforce,8,1,
+446,Illinois,25-34,Prefer not to say,Engineer,Finance,Claude | ChatGPT,Salesforce,2,10,Management could improve communication.
+447,Florida,18-24,Female,Manager,Retail,Claude | ChatGPT | Other,Asana | Notion,8,6,AI has made my job much easier.
+448,California,25-34,Non-binary,Manager,Tech,Copilot,Notion,4,10,Management could improve communication.
+449,New York,55+,Male,Data Analyst,Healthcare,ChatGPT | Other,Salesforce | Jira | Notion | Slack,1,2,
+450,Florida,55+,Female,Sales,Tech,Other | ChatGPT,Salesforce | Jira,3,8,I love the team culture here.
+451,New York,35-44,Male,HR,Education,Gemini,Salesforce | Jira | Slack,3,8,
+452,Texas,45-54,Female,Data Analyst,Tech,Claude | Other,Zoom | Jira | Slack,2,7,AI has made my job much easier.
+453,Florida,35-44,Prefer not to say,HR,Education,Other,Zoom,8,2,
+454,New York,55+,Non-binary,Manager,Education,Copilot,Asana,4,8,AI has made my job much easier.
+455,California,25-34,Non-binary,Engineer,Finance,ChatGPT | Gemini | Claude,Slack | Salesforce | Jira,2,7,
+456,Florida,35-44,Non-binary,Data Analyst,Finance,Gemini | Copilot | Claude,Zoom,10,7,
+457,New York,18-24,Female,HR,Tech,Other | Claude | Gemini,Notion,5,2,AI has made my job much easier.
+458,Illinois,45-54,Non-binary,Engineer,Healthcare,Gemini,Zoom | Slack | Asana | Jira,9,9,Great opportunities for growth.
+459,Florida,18-24,Female,Manager,Education,Copilot | Claude | ChatGPT,Asana | Jira,4,6,I love the team culture here.
+460,New York,18-24,Non-binary,Engineer,Healthcare,Gemini | Copilot,Notion | Jira | Asana | Slack,10,3,I enjoy my role but workload is high.
+461,California,55+,Female,Manager,Finance,ChatGPT | Claude | Gemini,Zoom | Asana | Salesforce,10,9,I enjoy my role but workload is high.
+462,California,55+,Female,Sales,Finance,ChatGPT | Gemini,Asana,1,10,Management could improve communication.
+463,Texas,35-44,Non-binary,Sales,Retail,Gemini | Other,Salesforce,8,10,Great opportunities for growth.
+464,California,25-34,Non-binary,HR,Healthcare,ChatGPT | Copilot | Gemini,Asana | Zoom | Notion,7,4,I love the team culture here.
+465,New York,45-54,Prefer not to say,HR,Tech,ChatGPT | Copilot | Claude,Zoom | Salesforce,5,4,AI has made my job much easier.
+466,Florida,55+,Non-binary,Sales,Education,ChatGPT | Copilot,Zoom | Salesforce | Notion,10,7,
+467,California,25-34,Male,Manager,Finance,Claude,Zoom | Salesforce | Slack,10,10,
+468,Florida,45-54,Non-binary,Sales,Finance,Claude | Gemini | Copilot,Zoom,8,7,AI has made my job much easier.
+469,California,35-44,Non-binary,Manager,Education,Gemini | ChatGPT | Copilot,Notion,6,3,
+470,Texas,35-44,Female,Sales,Healthcare,Other | Copilot,Notion,7,1,Great opportunities for growth.
+471,Florida,18-24,Female,HR,Education,Gemini,Salesforce | Asana,4,2,Management could improve communication.
+472,California,25-34,Prefer not to say,Data Analyst,Retail,Other | Claude | Gemini,Slack | Asana | Zoom,8,7,AI has made my job much easier.
+473,Illinois,45-54,Female,Engineer,Healthcare,ChatGPT | Claude | Gemini,Asana | Jira | Slack | Notion,6,10,I enjoy my role but workload is high.
+474,Illinois,55+,Non-binary,Sales,Healthcare,Gemini | ChatGPT,Salesforce | Jira,9,5,
+475,New York,45-54,Female,Manager,Finance,Copilot | Claude | ChatGPT,Zoom | Notion | Slack,1,1,AI has made my job much easier.
+476,Illinois,35-44,Male,Sales,Education,ChatGPT,Notion | Slack,2,6,I love the team culture here.
+477,New York,45-54,Female,Manager,Finance,ChatGPT | Copilot | Gemini,Zoom | Slack | Notion,6,5,
+478,New York,25-34,Prefer not to say,Engineer,Education,Copilot,Salesforce | Slack | Zoom | Jira,10,9,AI has made my job much easier.
+479,Florida,18-24,Male,Data Analyst,Healthcare,ChatGPT | Gemini,Notion,2,3,Management could improve communication.
+480,New York,25-34,Prefer not to say,Data Analyst,Healthcare,Gemini | Other | ChatGPT,Slack | Jira | Salesforce | Notion,10,7,Great opportunities for growth.
+481,Illinois,18-24,Female,Sales,Education,Copilot | Claude,Asana | Slack | Zoom | Notion,6,5,Management could improve communication.
+482,Texas,25-34,Female,Engineer,Education,ChatGPT | Claude,Notion | Jira | Slack | Asana,10,10,
+483,New York,55+,Prefer not to say,Data Analyst,Healthcare,ChatGPT | Other | Gemini,Jira | Slack,3,7,
+484,New York,18-24,Prefer not to say,HR,Retail,Copilot | Claude | ChatGPT,Notion | Zoom | Salesforce | Slack,2,4,
+485,Texas,18-24,Prefer not to say,Engineer,Finance,Gemini,Zoom | Jira,4,4,
+486,Florida,55+,Prefer not to say,Sales,Finance,ChatGPT | Claude,Jira | Zoom | Slack | Notion,7,8,
+487,Florida,35-44,Female,HR,Retail,Other | Copilot,Notion | Salesforce,6,4,I enjoy my role but workload is high.
+488,Florida,45-54,Female,Sales,Finance,ChatGPT | Copilot | Claude,Notion | Jira,3,4,Great opportunities for growth.
+489,Texas,18-24,Non-binary,Engineer,Tech,Other | Copilot | Gemini,Zoom | Jira,8,8,AI has made my job much easier.
+490,New York,25-34,Female,Sales,Education,ChatGPT,Jira | Notion,7,9,Management could improve communication.
+491,Florida,25-34,Non-binary,Data Analyst,Retail,ChatGPT,Jira | Notion,4,7,I love the team culture here.
+492,Texas,45-54,Prefer not to say,Sales,Tech,Claude | Copilot | Other,Slack | Jira | Asana,10,3,
+493,Texas,55+,Male,Engineer,Tech,Copilot,Jira,9,8,I love the team culture here.
+494,Florida,35-44,Male,Engineer,Education,ChatGPT,Slack | Jira | Zoom,5,8,
+495,New York,55+,Male,HR,Finance,Other | Copilot,Slack | Zoom,9,5,I enjoy my role but workload is high.
+496,California,45-54,Female,Sales,Education,Other | Gemini | ChatGPT,Zoom,3,1,Management could improve communication.
+497,Illinois,55+,Non-binary,Engineer,Healthcare,ChatGPT | Copilot | Claude,Asana | Zoom | Salesforce,5,2,I love the team culture here.
+498,Florida,45-54,Female,Data Analyst,Tech,Gemini | ChatGPT | Other,Zoom | Jira | Salesforce | Slack,7,7,Management could improve communication.
+499,New York,18-24,Female,Data Analyst,Retail,Copilot | Other | Gemini,Slack | Zoom | Jira | Asana,3,9,AI has made my job much easier.
+500,Florida,35-44,Female,Data Analyst,Education,Copilot,Notion,1,2,I love the team culture here.
